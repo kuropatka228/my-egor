@@ -1,8 +1,7 @@
-// components/Header.jsx
 export default function Header() { 
   return ( 
     <header 
-      className="fixed top-0 left-5 w-full h-16 bg-white flex justify-between items-center py-4 shadow-sm" 
+      className="fixed top-0 left-0 w-full h-16 bg-white flex justify-between items-center py-4 shadow-sm" 
     > 
       <div className="flex items-center ml-10">
         <span className="w-4 h-4 border border-black rounded-full"></span>
